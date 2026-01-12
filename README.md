@@ -10,4 +10,4 @@ Pipeline end-to-end (Twitch/Steam) que viabiliza análises estratégicas sobre c
 [Ver Projeto](https://github.com/lucasIsy/Pipeline_to_data_analytics)
 
 ### Tech Stack
-<img width="1041" height="77" alt="Image" src="https://github.com/user-attachments/assets/0ef7b0b5-5ec5-4c5a-adca-932db9222101" />
+<img width="1041" height="80" alt="Image" src="https://github.com/user-attachments/assets/debd378b-27f4-4dec-b424-d996082e68d5" />
