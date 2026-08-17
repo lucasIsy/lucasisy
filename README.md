@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá. 👋
+Desde que eu jogava Minecraft com mods, minha paixão (e estresse) era planejar farms da forma mais eficiente possível, para que durassem e não afetassem os outros jogadores. Graças a essa mentalidade, hoje posso compartilhar minhas soluções para problemas que julgo relevante utilizando a engenharia de dados.
 
-<!--
-**lucasIsy/lucasisy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Projetos mais recentes
+### [steam-feedbacks-classifier](https://github.com/lucasIsy/steam-feedbacks-classifier)
+**Objetivo**: 
+Permitir que jogos em desenvolvimento encontrem problemas críticos ou recorrentes através dos milhares de feedbacks dos jogadores na Steam.
 
-Here are some ideas to get you started:
+**Resultado**: 
+Desenvolvi um pipeline (ELT - Batch) que aplica extração incremental das reviews com a união de SQL, IA e Embeddings para transformar e categorizar textos não estruturados em feedbacks quantificáveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **GCP** (`Cloud Workflows`, `Cloud Run`, `BigQuery [ML + VectorDB]`, `Cloud Storage`) • **IA** (`Agent Platform`) • `Python` • `SQL`
+
+### [Gerenciador-de-bateria-inteligente](https://github.com/lucasIsy/Gerenciador-de-bateria-inteligente)
+**Objetivo**: 
+Otimizar automaticamente o consumo de energia solar durante a noite ou em situações de emergência até a produção de energia retornar.
+
+**Resultado**: 
+Criei um pipeline em streaming que gerencia em tempo real o consumo de múltiplos dispositivos IoT, além de monitorar o consumo, economia e receber alertas via Discord.
+
+> `Kafka` • `Mosquitto (MQTT)` • `Kafka Connect` • `ksqlDB` • `InfluxDB` • `Telegraf` • `Grafana` • `JavaScript` • `Python` • `SQL`
