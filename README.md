@@ -1,8 +1,12 @@
 ## Olá. 👋
 Desde que eu jogava Minecraft com mods, minha paixão (e estresse) era planejar farms da forma mais eficiente possível, para que durassem e não afetassem os outros jogadores. Graças a essa mentalidade, hoje posso compartilhar minhas soluções para problemas que julgo relevante utilizando a engenharia de dados.
 
-<p align="center">
-  <img src="./Stack.svg"/>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Stack-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./Stack.svg">
+    <img alt="Minha Tech Stack" src="./Stack-dark.svg">
+  </picture>
 </p>
 
 ## 🛠️ Projetos mais recentes
