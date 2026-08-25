@@ -9,13 +9,9 @@ Permitir que jogos em desenvolvimento encontrem problemas críticos ou recorrent
 **Resultado**: 
 Desenvolvi um pipeline (ELT - Batch) que aplica extração incremental das reviews com a união de SQL, IA e Embeddings para transformar e categorizar textos não estruturados em feedbacks quantificáveis.
 
-> **GCP** (`Cloud Workflows`, `Cloud Run`, `BigQuery [ML + VectorDB]`, `Cloud Storage`) • **IA** (`Agent Platform`) • `Python` • `SQL`
-
 ### [Gerenciador-de-bateria-inteligente](https://github.com/lucasIsy/Gerenciador-de-bateria-inteligente)
 **Objetivo**: 
 Otimizar automaticamente o consumo de energia solar durante a noite ou em situações de emergência até a produção de energia retornar.
 
 **Resultado**: 
 Criei um pipeline em streaming que gerencia em tempo real o consumo de múltiplos dispositivos IoT, além de monitorar o consumo, economia e receber alertas via Discord.
-
-> `Kafka` • `Mosquitto (MQTT)` • `Kafka Connect` • `ksqlDB` • `InfluxDB` • `Telegraf` • `Grafana` • `JavaScript` • `Python` • `SQL`
