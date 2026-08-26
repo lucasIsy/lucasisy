@@ -1,7 +1,7 @@
 ## Oi, visitante!
 Quebrar a cabeça para construir farms no Minecraft pode parecer diferente de desenvolver uma arquitetura de dados, mas **ambas as áreas** compartilham desafios semelhantes: **entender as limitações, encontrar uma solução que utilize poucos recursos e que seja durável.**
 
-> Esse paralelo vai além da minha paixão por jogos ou engenharia de dados, pois eu o utilizo para criar projetos que, de alguma forma, possam impactar as nossas vidas. Por isso, convido você a conhecer os meus projetos. 👋
+> Esse paralelo vai além da minha paixão por jogos ou engenharia de dados, pois eu o utilizo para criar projetos que, de alguma forma, possam impactar as nossas vidas. **Por isso, convido você a conhecer os meus projetos.** 👋
 
 
 
