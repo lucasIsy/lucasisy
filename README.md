@@ -1,5 +1,5 @@
 ## Oi, visitante!
-Quebrar a cabeça para construir farms no Minecraft pode parecer diferente de resolver problemas com engenharia de dados, mas ambas as atividades têm o mesmo objetivo: **entender as limitações, encontrar uma solução que utilize poucos recursos e que seja durável**.
+Quebrar a cabeça para construir farms no Minecraft pode parecer diferente de desenvolver uma arquitetura de dados, mas ambas compartilham objetivos semelhantes: **entender as limitações, encontrar uma solução que utilize poucos recursos e que seja durável**.
 
 > Em outras palavras, minha paixão por jogos e desafios de otimização é o que guia os meus projetos como engenheiro de dados, e convido você a conhecê-los. 👋
 
