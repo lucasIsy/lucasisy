@@ -1,5 +1,10 @@
-## Olá. 👋
-Desde que eu jogava Minecraft com mods, minha paixão (e estresse) era planejar farms da forma mais eficiente possível, para que durassem e não afetassem os outros jogadores. Graças a essa mentalidade, hoje posso compartilhar minhas soluções para problemas que julgo relevante utilizando a engenharia de dados.
+## Oi, visitante!
+Quebrar a cabeça para construir farms no Minecraft pode parecer diferente de resolver problemas com engenharia de dados, mas ambas as atividades têm o mesmo objetivo: **entender as limitações, encontrar uma solução que utilize poucos recursos e que seja durável**.
+
+> Em outras palavras, minha paixão por jogos e desafios de otimização é o que guia os meus projetos como engenheiro de dados, e convido você a conhecê-los. 👋
+
+
+
 
 <p align="left">
   <picture>
