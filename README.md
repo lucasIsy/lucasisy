@@ -13,8 +13,6 @@ Quebrar a cabeça para construir farms no Minecraft pode parecer diferente de de
   </picture>
 </p>
 
-</br>
-
 ## 🛠️ Projetos mais recentes
 ### [steam-feedbacks-classifier](https://github.com/lucasIsy/steam-feedbacks-classifier)
 **Objetivo**: 
