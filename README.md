@@ -3,8 +3,7 @@ Quebrar a cabeça para construir farms no Minecraft pode parecer diferente de de
 
 > Esse paralelo vai além da minha paixão por jogos ou engenharia de dados, pois eu o utilizo para criar projetos que, de alguma forma, possam impactar as nossas vidas. **Por isso, convido você a conhecer os meus projetos.** 👋
 
-
-
+</br>
 
 <p align="left">
   <picture>
@@ -13,6 +12,8 @@ Quebrar a cabeça para construir farms no Minecraft pode parecer diferente de de
     <img alt="Minha Tech Stack" src="./Stack-dark.svg">
   </picture>
 </p>
+
+</br>
 
 ## 🛠️ Projetos mais recentes
 ### [steam-feedbacks-classifier](https://github.com/lucasIsy/steam-feedbacks-classifier)
