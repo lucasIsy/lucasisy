@@ -15,11 +15,12 @@ Quebrar a cabeça para construir farms no Minecraft pode parecer diferente de de
 
 ## 🛠️ Projetos mais recentes
 ### [steam-feedbacks-classifier](https://github.com/lucasIsy/steam-feedbacks-classifier)
-**Objetivo**: 
-Permitir que jogos em desenvolvimento encontrem problemas críticos ou recorrentes através dos milhares de feedbacks dos jogadores na Steam.
+A arquitetura automatiza a extração de conteúdo útil dentre milhares de textos não estruturados(reviews ou feedbacks), permitindo encontrar rapidamente:
+1. Problemas críticos ou recorrentes
+3. Monitorar a efetividade das atualizações
+2. Encontrar as áreas prioritárias no desenvolvimento do jogo ou serviço.
+> Apresenta uma solução baseada em 3 pilares: **Filtragem(SQL + IA)**, **Fragmentação(IA)** e **Classificação(Embeddings, Herança por Proximidade Semântica, VectorDB)**
 
-**Resultado**: 
-Desenvolvi um pipeline (ELT - Batch) que aplica extração incremental das reviews com a união de SQL, IA e Embeddings para transformar e categorizar textos não estruturados em feedbacks quantificáveis.
 
 ### [Gerenciador-de-bateria-inteligente](https://github.com/lucasIsy/Gerenciador-de-bateria-inteligente)
 **Objetivo**: 
