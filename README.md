@@ -14,17 +14,15 @@ Quebrar a cabeça para construir farms no Minecraft pode parecer diferente de de
 </p>
 
 ## 🛠️ Projetos mais recentes
-### [steam-feedbacks-classifier](https://github.com/lucasIsy/steam-feedbacks-classifier)
+### [steam-feedbacks-classifier](https://github.com/lucasIsy/steam-feedbacks-classifier) | Batch
 A arquitetura automatiza a extração de conteúdo útil dentre milhares de textos não estruturados(reviews ou feedbacks), permitindo encontrar rapidamente:
 1. Problemas críticos ou recorrentes
-3. Monitorar a efetividade das atualizações
-2. Encontrar as áreas prioritárias no desenvolvimento do jogo ou serviço.
+2. Monitorar a efetividade das atualizações
+3. Encontrar as áreas prioritárias no desenvolvimento do jogo ou serviço.
 > Apresenta uma solução baseada em 3 pilares: **Filtragem(SQL + IA)**, **Fragmentação(IA)** e **Classificação(Embeddings, Herança por Proximidade Semântica, VectorDB)**
-
-
-### [Gerenciador-de-bateria-inteligente](https://github.com/lucasIsy/Gerenciador-de-bateria-inteligente)
-**Objetivo**: 
-Otimizar automaticamente o consumo de energia solar durante a noite ou em situações de emergência até a produção de energia retornar.
-
-**Resultado**: 
-Criei um pipeline em streaming que gerencia em tempo real o consumo de múltiplos dispositivos IoT, além de monitorar o consumo, economia e receber alertas via Discord.
+### [Gerenciador-de-bateria-inteligente](https://github.com/lucasIsy/Gerenciador-de-bateria-inteligente) | Streaming
+Pipeline em streaming que gerencia o consumo de múltiplos IoT em baterias fotovoltaicas, permitindo que os dispositivos mais críticos possam operar durante a noite ou em situações de emergência. 
+1. Economia gerada
+2. Alertas de capacidade restante
+3. Monitoramento em tempo real
+4. Sistemas locais
