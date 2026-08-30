@@ -20,9 +20,10 @@ A arquitetura automatiza a extração de conteúdo útil dentre milhares de text
 2. Monitorar a efetividade das atualizações
 3. Encontrar as áreas prioritárias no desenvolvimento do jogo ou serviço.
 > Apresenta uma solução baseada em 3 pilares: **Filtragem(SQL + IA)**, **Fragmentação(IA)** e **Classificação(Embeddings, Herança por Proximidade Semântica, VectorDB)**
+
 ### [Gerenciador-de-bateria-inteligente](https://github.com/lucasIsy/Gerenciador-de-bateria-inteligente) | Streaming
 Pipeline em streaming que gerencia o consumo de múltiplos IoT em baterias fotovoltaicas, permitindo que os dispositivos mais críticos possam operar durante a noite ou em situações de emergência. 
 1. Economia gerada
 2. Alertas de capacidade restante
 3. Monitoramento em tempo real
-4. Sistemas locais
+> Projeto de estudos sobre pipelines IoT e streaming de dados.
