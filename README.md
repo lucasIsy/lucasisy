@@ -26,4 +26,4 @@ Pipeline em streaming que gerencia o consumo de múltiplos IoT em baterias fotov
 1. Economia gerada
 2. Alertas de capacidade restante
 3. Monitoramento em tempo real
-> Projeto de estudos sobre pipelines IoT e streaming de dados.
+> Projeto de estudos sobre pipelines IoT e streaming de dados
