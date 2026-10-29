@@ -19,7 +19,7 @@ A arquitetura automatiza a extração de conteúdo útil dentre milhares de text
 1. Problemas críticos ou recorrentes
 2. Monitorar a efetividade das atualizações
 3. Encontrar as áreas prioritárias no desenvolvimento do jogo ou serviço.
-> Apresenta uma solução baseada em 3 pilares: **Filtragem(SQL + IA)**, **Fragmentação(IA)**, **Classificação(Embeddings, Herança por Proximidade Semântica, VectorDB)** Integração Google Cloud
+> Apresenta uma solução baseada em 3 pilares: **Filtragem(SQL + IA)**, **Fragmentação(IA)**, **Classificação(Embeddings, Herança por Proximidade Semântica, VectorDB)**
 
 ### [Gerenciador-de-bateria-inteligente](https://github.com/lucasIsy/Gerenciador-de-bateria-inteligente) | Streaming
 Pipeline em streaming que gerencia o consumo de múltiplos IoT em baterias fotovoltaicas, permitindo que os dispositivos mais críticos possam operar durante a noite ou em situações de emergência. 
